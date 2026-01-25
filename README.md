@@ -55,6 +55,3 @@ aws s3 sync out/ s3://YOUR-FRONTEND-BUCKET-NAME/ --delete
 ```
 
 The `--delete` flag ensures that old files are removed from S3 if they're no longer in your build.
-
-
-Or https://YOUR-API-ID.execute-api.us-east-1.amazonaws.com/chat if you deploy to AWS.
