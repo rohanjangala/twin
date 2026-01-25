@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "Rohan's Github Profile?",
+    "timestamp": "2026-01-23T10:37:02.941352"
+  },
+  {
+    "role": "assistant",
+    "content": "Certainly! You can find my GitHub profile at github.com/rohanjangala. It contains some of my projects and contributions related to AI development, prompt engineering, and software stacks in Linux. Feel free to explore or reach out if you have any questions about my work.",
+    "timestamp": "2026-01-23T10:37:02.941412"
+  }
+]

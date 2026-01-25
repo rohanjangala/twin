@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "Show your resume",
+    "timestamp": "2026-01-23T17:13:43.583082"
+  },
+  {
+    "role": "assistant",
+    "content": "I've displayed my Resume to the right. If you'd like, I can also share more details about my background or current work.",
+    "timestamp": "2026-01-23T17:13:43.583103"
+  }
+]

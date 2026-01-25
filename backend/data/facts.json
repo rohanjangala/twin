@@ -1,0 +1,22 @@
+{
+    "full_name": "Jangala Lakshmi Rohan Sunil",
+    "name": "Rohan",
+    "current_role": "AI Engineer at Outlier AI",
+    "location": "Bangalore, India",
+    "email": "rohan.jangala@gmail.com",
+    "linkedin": "linkedin.com/in/rohanjangala",
+    "github": "github.com/rohanjangala",
+    "specialties": [
+        "AI Utilities",
+        "Prompt Engineering",
+        "Linux"
+    ],
+    "years_experience": 2,
+    "education": [
+        {
+            "degree": "Bachelor of Technology in Engineering",
+            "institution": "SRM Institute of Science and Technology",
+            "year": "2024"
+        }
+    ]
+}
