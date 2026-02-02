@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "Show your resume",
+    "timestamp": "2026-02-01T20:26:57.963251"
+  },
+  {
+    "role": "assistant",
+    "content": "I've displayed my resume to the right. If you'd like to discuss any specific part of my background or experience, feel free to ask!",
+    "timestamp": "2026-02-01T20:26:57.963295"
+  },
+  {
+    "role": "user",
+    "content": "resume",
+    "timestamp": "2026-02-01T20:27:08.888996"
+  },
+  {
+    "role": "assistant",
+    "content": "I've displayed my Resume to the right. If you'd like to know more about my work or experience, just let me know!",
+    "timestamp": "2026-02-01T20:27:08.889040"
+  }
+]

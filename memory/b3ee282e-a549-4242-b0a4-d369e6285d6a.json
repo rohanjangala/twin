@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "Tell me about yourself",
+    "timestamp": "2026-02-02T14:41:21.126804"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi, I\u2019m Rohan. I\u2019m currently an AI Engineer at Outlier AI based in Bangalore, India. I\u2019ve got about 2 years of experience in AI development, with a focus on deploying AI utilities quickly and efficiently, along with prompt engineering. I recently graduated in 2024 with a B.Tech in Mechanical Engineering from SRM Institute of Science and Technology.\n\nI enjoy working on building innovative AI solutions, whether that's developing utilities, exploring prompt engineering techniques, or working on projects involving Linux and robotics. Feel free to ask if you want to know more about my work or interests!",
+    "timestamp": "2026-02-02T14:41:21.126825"
+  }
+]

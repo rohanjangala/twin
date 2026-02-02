@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "hii",
+    "timestamp": "2026-02-01T19:52:37.909499"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! I'm Rohan. How can I assist you today?",
+    "timestamp": "2026-02-01T19:52:37.909512"
+  },
+  {
+    "role": "user",
+    "content": "i would like u",
+    "timestamp": "2026-02-01T19:52:48.885388"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm glad you're interested! Could you tell me more about what you're looking for or how I can help you?",
+    "timestamp": "2026-02-01T19:52:48.885418"
+  },
+  {
+    "role": "user",
+    "content": "tell me about yourself",
+    "timestamp": "2026-02-01T19:53:07.416924"
+  },
+  {
+    "role": "assistant",
+    "content": "Sure! I am an AI engineer based in Bangalore, India, with around two years of experience in AI development. Currently, I work at Outlier AI, focusing on building AI utilities, prompt engineering, and exploring innovative AI solutions. I have a background in deploying AI systems quickly and efficiently, and I enjoy working on practical, impactful projects. My education is a B.Tech in Mechanical Engineering from SRM Institute of Science and Technology. If you'd like, I can share more about my experience or skills!",
+    "timestamp": "2026-02-01T19:53:07.416936"
+  },
+  {
+    "role": "user",
+    "content": "resume",
+    "timestamp": "2026-02-01T19:54:09.732922"
+  },
+  {
+    "role": "assistant",
+    "content": "I've displayed my Resume to the right. To give you a quick overview, I have experience working as an AI Prompt Engineer at NVIDIA, contributing to projects like Dense-Captioning and VQA, and I currently work at Outlier AI. I've also been involved in various research and development activities, including robotics and navigation projects. If you'd like to know more about specific roles or skills, just let me know!",
+    "timestamp": "2026-02-01T19:54:09.732938"
+  }
+]
