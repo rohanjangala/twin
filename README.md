@@ -55,3 +55,14 @@ aws s3 sync out/ s3://YOUR-FRONTEND-BUCKET-NAME/ --delete
 ```
 
 The `--delete` flag ensures that old files are removed from S3 if they're no longer in your build.
+
+### Deployment with Terraform
+
+Since github_api_key is marked as sensitive, you cannot just run terraform apply. You can:
+
+**Pass it via command line (Recommended)**
+
+```bash
+export TF_VAR_github_api_key="your_github_token_here"
+./scripts/deploy.sh dev
+```
