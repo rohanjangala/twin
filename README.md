@@ -21,6 +21,7 @@ uv run uvicorn server:app --reload
 
 // Switch on frontend:
 cd frontend
+npm install
 npm run dev
 ```
 
