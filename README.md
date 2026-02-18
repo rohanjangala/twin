@@ -12,6 +12,18 @@ constresponse = awaitfetch('http://localhost:8000/chat', {
 const response = awaitfetch('https://YOUR-API-ID.execute-api.us-east-1.amazonaws.com/chat', {
 ```
 
+### **Run Locally**
+
+```bash
+// Switch on backend server:
+cd backend
+uv run uvicorn server:app --reload
+
+// Switch on frontend:
+cd frontend
+npm run dev
+```
+
 ### **Backend Code**
 
 **Build the Lambda Package**
