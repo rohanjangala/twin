@@ -1,6 +1,6 @@
 **You can view my personal twin live at: https://dcyjee0zf75ua.cloudfront.net/**
 
-This is a project which has been deployed to AWS and need a huge amount of configuration set-up patience. It's hard but you can try. Part of the setup is below. For full setup, I'll recommend you check out: http://github.com/ed-donner/production/blob/main/week2/day2.md
+This project has been deployed to AWS at the above link; if you want to set this up for yourself, you'll need some amount of patience. Part of the setup is below. For full setup, I'll recommend you check out: http://github.com/ed-donner/production/blob/main/week2/day2.md
 
 First check `frontend/components/twin.tsx` - find the fetch call and update:
 
